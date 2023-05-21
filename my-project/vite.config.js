@@ -7,6 +7,8 @@ export default defineConfig({
             input: [
                 'resources/css/app.scss',
                 'resources/js/app.js',
+                'public/js/charts/ordersPerDayChart.js',
+                'public/js/charts/ordersPerCategoryChart.js',
                 'resources/css/admin.scss',
                 'resources/css/auth.scss',
                 'resources/css/cart.scss',
