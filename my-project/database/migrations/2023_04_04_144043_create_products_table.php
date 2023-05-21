@@ -17,7 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->unsignedDecimal('price');
-            $table->unsignedSmallInteger('discount')->nullable();
+            $table->unsignedDecimal('discount')->nullable();
             $table->foreignId('brand_id')->constrained();
             $table->enum('status', ['disponible', 'no disponible']);
             $table->timestamps();
