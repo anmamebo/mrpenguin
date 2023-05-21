@@ -2,6 +2,7 @@
 
 @section('title', 'Bienvenido - Mr Penguin')
 
+@vite(['resources/css/home.scss'])
 
 @section('content')
 <!-- CAROUSEL -->
