@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Camisas"
+    },
+    {
+        "id": 2,
+        "name": "Americanas"
+    },
+    {
+        "id": 3,
+        "name": "Pantalones"
+    },
+    {
+        "id": 4,
+        "name": "Chinos"
+    },
+    {
+        "id": 5,
+        "name": "Trajes"
+    },
+    {
+        "id": 6,
+        "name": "Zapatos"
+    },
+    {
+        "id": 7,
+        "name": "Relojes"
+    }
+]
