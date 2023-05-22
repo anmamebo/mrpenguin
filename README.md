@@ -1,12 +1,9 @@
-# TAD-Grupo7
-
-Color: Negro
+# MrPenguin
 
 Integrantes:
 - Antonio Manuel Mérida Borrero
 - Carlos Herrera Dominguez
 - Alejandro Enrique Espada Pino
-
 
 
 ## Aranque del proyecto con Docker-compose
